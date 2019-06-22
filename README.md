@@ -3,7 +3,11 @@
 
 
 #### To use
-First you need to use program to create appche and server I used [!XAMPP](https://www.apachefriends.org/index.html)
+First you need to use program to create appche and server I used [XAMPP](https://www.apachefriends.org/index.html)
+* Install XAMPP.
+* Clone the repo to your device
+* Then copy the project folder into XAMMP/httpdocs folder.
+* Then start server and import musique.sql
 
 
 ##### User Access:
