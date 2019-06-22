@@ -1,5 +1,11 @@
 # CMS-for-musique-website
 ### This website provide Content Management System for music website
+
+
+#### To use
+First you need to use program to create appche and server I used [!XAMPP](https://www.apachefriends.org/index.html)
+
+
 ##### User Access:
 * Sign Up.
 * Sign In.
